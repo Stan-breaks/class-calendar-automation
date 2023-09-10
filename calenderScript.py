@@ -4,7 +4,7 @@ from googleapiclient.discovery import build
 import json
 
 # Define your Google Calendar ID (usually your email address associated with Google Calendar).
-calendar_id = 'niyonizigiyekayla@gmail.com'
+calendar_id = '****************'
 
 # Load service account credentials (replace 'your-credentials.json' with your actual JSON key file).
 credentials = service_account.Credentials.from_service_account_file('myinfo.json', scopes=['https://www.googleapis.com/auth/calendar'])
