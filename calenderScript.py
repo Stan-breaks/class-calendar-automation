@@ -4,7 +4,7 @@ from googleapiclient.discovery import build
 import json
 
 # Define your Google Calendar ID (usually your email address associated with Google Calendar).
-calendar_id = '****************'
+calendar_id = '************'
 
 # Load service account credentials (replace 'your-credentials.json' with your actual JSON key file).
 credentials = service_account.Credentials.from_service_account_file('myinfo.json', scopes=['https://www.googleapis.com/auth/calendar'])
@@ -12,7 +12,7 @@ credentials = service_account.Credentials.from_service_account_file('myinfo.json
 # Create a service object for interacting with the Google Calendar API.
 service = build('calendar', 'v3', credentials=credentials)
 
-with open('kayla.json','r')as file:
+with open('kaylaPersonal.json','r')as file:
     schedule=json.load(file)
 
 recurrence_rule = [

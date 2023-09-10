@@ -1,0 +1,106 @@
+[
+  {
+    "summary": "Review coursework and plan for the week.",
+    "description": "tip:  let's work hard",
+    "start": {
+      "dateTime": "2023-09-10T10:00:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "end": {
+      "dateTime": "2023-09-10T12:00:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "location": "Home"
+  },
+  {
+    "summary": "Prepare for the upcoming week, including coding project goals",
+    "description": "tip: you got this",
+    "start": {
+      "dateTime": "2023-09-10T14:00:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "end": {
+      "dateTime": "2023-09-10T16:00:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "location": "Home"
+  },
+  {
+    "summary": "Study and review computer science concepts.",
+    "description": "tip: you got this",
+    "start": {
+      "dateTime": "2023-09-11T09:00:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "end": {
+      "dateTime": "2023-09-11T11:30:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "location": "Home"
+  },
+  {
+    "summary": "study and work on an assignment",
+    "description": "tip: relax and breathe you are doing okay",
+    "start": {
+      "dateTime": "2023-09-10T13:30:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "end": {
+      "dateTime": "2023-09-10T15:30:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "location": "Home"
+  },
+  {
+    "summary": "Work on a coding project",
+    "description": "tip: relax and breathe you are doing okay",
+    "start": {
+      "dateTime": "2023-09-10T16:30:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "end": {
+      "dateTime": "2023-09-10T17:30:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "location": "Home"
+  },
+  {
+    "summary": "Study computer science.",
+    "description": "tip: relax and breathe you are doing okay",
+    "start": {
+      "dateTime": "2023-09-13T09:00:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "end": {
+      "dateTime": "2023-09-13T11:00:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "location": "Home"
+  },
+  {
+    "summary": "Work on a coding project or practical application",
+    "description": "tip: relax and breathe you are doing okay",
+    "start": {
+      "dateTime": "2023-09-13T11:30:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "end": {
+      "dateTime": "2023-09-13T13:00:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "location": "Home"
+  },
+  {
+    "summary": "Study and review class notes",
+    "description": "tip: relax and breathe you are doing okay",
+    "start": {
+      "dateTime": "2023-09-15T14:30:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "end": {
+      "dateTime": "2023-09-15T16:00:00",
+      "timeZone": "Africa/Nairobi"
+    },
+    "location": "Home"
+  }
+]
