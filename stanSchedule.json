@@ -1,0 +1,51 @@
+[
+{
+  "summary": "CMD401-MN class",
+  "description": "Development of Society",
+  "start": { "dateTime": "2023-09-15T08:00:00", "timeZone": "Africa/Nairobi" },
+  "end": { "dateTime": "2023-09-15T11:00:00", "timeZone": "Africa/Nairobi" },
+  "location": "HLS21"
+},
+{
+  "summary": "CSC301-MN class",
+  "description": "IS Project I",
+  "start": { "dateTime": "2023-09-13T14:30:00", "timeZone": "Africa/Nairobi" },
+  "end": { "dateTime": "2023-09-13T17:00:00", "timeZone": "Africa/Nairobi" },
+  "location": "GRS/LAB"
+},
+{
+  "summary": "CSC302-MN class",
+  "description": "Operating Systems",
+  "start": { "dateTime": "2023-09-15T11:15:00", "timeZone": "Africa/Nairobi" },
+  "end": { "dateTime": "2023-09-15T14:15:00", "timeZone": "Africa/Nairobi" },
+  "location": "GRT/LAB"
+},
+{
+  "summary": "CSC316-MN class",
+  "description": "Advanced Web Based Application Development",
+  "start": { "dateTime": "2023-09-12T13:00:00", "timeZone": "Africa/Nairobi" },
+  "end": { "dateTime": "2023-09-12T16:00:00", "timeZone": "Africa/Nairobi" },
+  "location": "GRS/LAB"
+},
+{
+  "summary": "CSC317-MN class",
+  "description": "Computer Security and Audit",
+  "start": { "dateTime": "2023-09-12T08:00:00", "timeZone": "Africa/Nairobi" },
+  "end": { "dateTime": "2023-09-12T11:00:00", "timeZone": "Africa/Nairobi" },
+  "location": "GRJ/LAB"
+},
+{
+  "summary": "CSC325-MN class",
+  "description": "Research Methods and Technical Writing",
+  "start": { "dateTime": "2023-09-14T13:00:00", "timeZone": "Africa/Nairobi" },
+  "end": { "dateTime": "2023-09-14T16:00:00", "timeZone": "Africa/Nairobi" },
+  "location": "GRT/LAB"
+},
+{
+  "summary": "MTH211-MN class",
+  "description": "Calculus II",
+  "start": { "dateTime": "2023-09-14T08:00:00", "timeZone": "Africa/Nairobi" },
+  "end": { "dateTime": "2023-09-14T11:00:00", "timeZone": "Africa/Nairobi" },
+  "location": "HLS12A"
+}
+]

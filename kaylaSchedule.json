@@ -1,0 +1,114 @@
+[
+  {
+    "summary": "BIO0005 082 class",
+    "description": "Lab",
+    "start": {
+      "dateTime": "2023-09-11T08:00:00",
+      "timeZone": "America/Toronto"
+    },
+    "end": { 
+        "dateTime": "2023-09-11T10:00:00", 
+        "timeZone": "America/Toronto" },
+    "location": "WA131"
+  },
+  {
+    "summary": "MAT0024 309 class",
+    "description": "Theory",
+    "start": {
+      "dateTime": "2023-09-11T12:00:00",
+      "timeZone": "America/Toronto"
+    },
+    "end": { 
+        "dateTime": "2023-09-11T14:00:00",
+        "timeZone": "America/Toronto" },
+    "location": "WT303"
+  },
+  {
+    "summary": "BIO0005 082 class",
+    "description": "Theory",
+    "start": {
+      "dateTime": "2023-09-12T10:00:00",
+      "timeZone": "America/Toronto"
+    },
+    "end": { 
+        "dateTime": "2023-09-12T12:00:00", 
+        "timeZone": "America/Toronto" },
+    "location": "WA141"
+  },
+  {
+    "summary": "SCI0004 080 class",
+    "description": "Theory",
+    "start": {
+      "dateTime": "2023-09-12T12:00:00",
+      "timeZone": "America/Toronto"
+    },
+    "end": { 
+        "dateTime": "2023-09-12T16:00:00", 
+        "timeZone": "America/Toronto" },
+    "location": "WT312"
+  },
+  {
+    "summary": "ENL0078 306 class",
+    "description": "Theory",
+    "start": {
+      "dateTime": "2023-09-13T10:00:00",
+      "timeZone": "America/Toronto"
+    },
+    "end": { 
+        "dateTime": "2023-09-13T12:00:00", 
+        "timeZone": "America/Toronto" },
+    "location": "WP303"
+  },
+  {
+    "summary": "MAT0024 309 class",
+    "description": "Theory",
+    "start": {
+      "dateTime": "2023-09-13T16:00:00",
+      "timeZone": "America/Toronto"
+    },
+    "end": { 
+        "dateTime": "2023-09-13T17:00:00", 
+        "timeZone": "America/Toronto" 
+    },
+    "location": "WJ209"
+  },
+  {
+    "summary": "SSC0097 307 class",
+    "description": "Theory",
+    "start": {
+      "dateTime": "2023-09-14T16:30:00",
+      "timeZone": "America/Toronto"
+    },
+    "end": { 
+        "dateTime": "2023-09-14T18:30:00", 
+        "timeZone": "America/Toronto" 
+    },
+    "location": "WB157"
+  },
+  {
+    "summary": "PSY0032 307 class",
+    "description": "Theory",
+    "start": {
+      "dateTime": "2023-09-15T14:00:00",
+      "timeZone": "America/Toronto"
+    },
+    "end": {
+      "dateTime": "2023-09-15T17:00:00",
+      "timeZone": "America/Toronto"
+    },
+    "location": "WB157"
+  },
+  {
+    "summary": "SCI0004 080 class",
+    "description": "Lab",
+    "start": {
+      "dateTime": "2023-09-15T17:30:00",
+      "timeZone": "America/Toronto"
+    },
+    "end": {
+      "dateTime": "2023-09-15T19:30:00",
+      "timeZone": "America/Toronto"
+    },
+    "location": "WA204"
+  }
+]

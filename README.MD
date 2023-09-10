@@ -1,0 +1,1 @@
+### I automated my class schedule on google calender, I already have the template so I will be replacing just a few item to automate 
